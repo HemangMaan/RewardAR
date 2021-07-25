@@ -1,6 +1,6 @@
 # RewardAR
 
-## We have developed an AR App which will include various Fun AR Games which users can play and win the rewards.
+## We have developed an AR App in 30 Hours which will include various Fun AR Games which users can play and win the rewards.
 <img src="screenshot/Screenshot_20210724-085231.jpg" width=25% >  <img src="screenshot/Screenshot_20210724-085240.jpg" width=25% > <img src="screenshot/Screenshot_20210724-085235.jpg" width=25% > 
 
 
